@@ -5,3 +5,5 @@ cmake_install.cmake
 compile_commands.json
 *.swp
 *.swo
+Makefile
+otoconia
